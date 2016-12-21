@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: BlueMix-Lab3-Jon
+  host: BlueMix-Lab3-Jon
+  disk_quota: 1024M
